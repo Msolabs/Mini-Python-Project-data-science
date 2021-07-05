@@ -1,2 +1,1 @@
-#### Mini Project for Data Science
-miniproject Prime
+#### Python Mini Project for Data Science
