@@ -1,2 +1,2 @@
-# Mini Project for Data Science
+#### Mini Project for Data Science
 miniproject Prime
